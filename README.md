@@ -1,6 +1,4 @@
 
-## 📄 `frontend/README.md`
-
 
 # 🍞 BakeCart Frontend
 
