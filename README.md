@@ -1,7 +1,7 @@
 
 ## 📄 `frontend/README.md`
 
-````markdown
+
 # 🍞 BakeCart Frontend
 
 The frontend for **BakeCart**, a bakery store listing and ordering platform.  
@@ -102,5 +102,5 @@ npm test
 
 Developed by **Your Name**
 
-```
+
 
