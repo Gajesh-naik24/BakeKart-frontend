@@ -92,7 +92,8 @@ npm test
 
 ## 📸 Screenshots
 
-*(Add some UI screenshots here)*
+![App Screenshot](Screenshots/photo_6122692055198188391_y.jpg)
+
 
 
 
