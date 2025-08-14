@@ -1,15 +1,24 @@
+Got it — so you want me to first give you the **frontend README** now, and when you say “next” I’ll give you the **backend README**.
+
+Here’s the **frontend README**:
+
+---
+
+## 📄 `frontend/README.md`
+
+````markdown
 # 🍞 BakeCart Frontend
 
 The frontend for **BakeCart**, a bakery store listing and ordering platform.  
-Built with **React**, **React Router**, **Tailwind CSS / Custom CSS**, and API integration with the backend.
+Built with **React**, **React Router**, and API integration with the backend.
 
 ---
 
 ## 🚀 Features
-- User authentication (Login, Signup, Reset Password)
+- User authentication (Login, Signup, Forgot/Reset Password)
 - Store listing with search and ratings
 - Animated, responsive UI with hover effects
-- Admin dashboard (if logged in as admin)
+- Conditional links based on user role (admin, user)
 - Profile management
 - Integration with REST API
 
@@ -20,7 +29,7 @@ Built with **React**, **React Router**, **Tailwind CSS / Custom CSS**, and API i
 - **React Router v6**
 - **Axios** for API requests
 - **React Icons** for UI icons
-- **Tailwind CSS** / custom CSS for styling
+- **Custom CSS / Tailwind CSS** for styling
 
 ---
 
@@ -29,15 +38,78 @@ Built with **React**, **React Router**, **Tailwind CSS / Custom CSS**, and API i
 1. Navigate to the frontend folder:
    ```bash
    cd frontend
+````
 
 2. Install dependencies:
-    npm install
+
+   ```bash
+   npm install
+   ```
+
 3. Start development server:
-    npm run dev
 
-Environment Variables
+   ```bash
+   npm start
+   ```
 
-Create a .env file inside frontend/ with:
+---
 
+## ⚙️ Environment Variables
+
+Create a `.env` file inside `frontend/` with:
+
+```env
 REACT_APP_API_URL=http://localhost:5000/api
+```
 
+---
+
+## 📂 Project Structure
+
+```
+frontend/
+ ├── public/              # Static assets
+ ├── src/
+ │   ├── api/              # API calls
+ │   ├── components/       # Reusable UI components
+ │   ├── pages/            # Route pages
+ │   ├── hooks/            # Custom hooks
+ │   ├── App.js            # Main App component
+ │   └── index.js          # Entry point
+ └── package.json
+```
+
+---
+
+## 🧪 Testing
+
+```bash
+npm test
+```
+
+---
+
+## 📜 Scripts
+
+* `npm start` – Start dev server
+* `npm run build` – Create production build
+* `npm test` – Run tests
+
+---
+
+## 📸 Screenshots
+
+*(Add some UI screenshots here)*
+
+---
+
+## ✨ Author
+
+Developed by **Your Name**
+
+```
+
+---
+
+Say **next** when you’re ready for the **backend README**.
+```
