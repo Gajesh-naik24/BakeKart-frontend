@@ -29,3 +29,15 @@ Built with **React**, **React Router**, **Tailwind CSS / Custom CSS**, and API i
 1. Navigate to the frontend folder:
    ```bash
    cd frontend
+
+2. Install dependencies:
+    npm install
+3. Start development server:
+    npm run dev
+
+Environment Variables
+
+Create a .env file inside frontend/ with:
+
+REACT_APP_API_URL=http://localhost:5000/api
+
