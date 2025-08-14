@@ -1,8 +1,3 @@
-Got it — so you want me to first give you the **frontend README** now, and when you say “next” I’ll give you the **backend README**.
-
-Here’s the **frontend README**:
-
----
 
 ## 📄 `frontend/README.md`
 
@@ -109,7 +104,3 @@ Developed by **Your Name**
 
 ```
 
----
-
-Say **next** when you’re ready for the **backend README**.
-```
