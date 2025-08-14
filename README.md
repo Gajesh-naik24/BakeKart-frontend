@@ -33,7 +33,7 @@ Built with **React**, **React Router**, and API integration with the backend.
 1. Navigate to the frontend folder:
    ```bash
    cd frontend
-````
+
 
 2. Install dependencies:
 
@@ -96,11 +96,11 @@ npm test
 
 *(Add some UI screenshots here)*
 
----
+
 
 ## ✨ Author
 
-Developed by **Your Name**
+Developed by **Gajesh**
 
 
 
