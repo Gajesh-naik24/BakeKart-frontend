@@ -93,37 +93,64 @@ npm test
 ## 📸 Screenshots
 
 ### SignUp Page
+
 ![App Screenshot](Screenshots/photo_6122692055198188391_y.jpg)
 
+
+
 ### Login Page
+
 ![App Screenshot](Screenshots/photo_6122692055198188392_y.jpg)
 
+
+
 ### Loading Page
+
 ![App Screenshot](Screenshots/photo_6122692055198188393_y.jpg)
 
+
+
 ### Profile Page
+
 ![App Screenshot](Screenshots/photo_6122692055198188394_y.jpg)
 
+
+
 ### Add User
+
 ![App Screenshot](Screenshots/photo_6122692055198188395_y.jpg)
 
+
+
 ### User Created
+
 ![App Screenshot](Screenshots/photo_6122692055198188396_y.jpg)
 
+
+
 ### Add Store
+
 ![App Screenshot](Screenshots/photo_6122692055198188397_y.jpg)
 
-### User Page
-![App Screenshot](Screenshots/photo_6122692055198188398_y.jpg)
+
 
 ### User Page
+
 ![App Screenshot](Screenshots/photo_6122692055198188398_y.jpg)
+
+
+
+### Owner Page
+
+![App Screenshot](Screenshots/photo_6122692055198188399_y.jpg)
+
+
 
 ### Admin Dashboard
+
 ![App Screenshot](Screenshots/photo_6122692055198188400_y.jpg)
 
-### User Page
-![App Screenshot](Screenshots/photo_6122692055198188398_y.jpg)
+
 
 
 
